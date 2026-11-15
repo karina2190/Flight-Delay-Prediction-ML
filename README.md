@@ -1,4 +1,4 @@
-# Commercial Flight Delay Prediction ✈️
+# Commercial Flight Delay Prediction
 
 ## Project Overview
 This repository contains an end-to-end Machine Learning pipeline designed to predict commercial flight delays. The project aims to classify whether a flight will be delayed (by more than 15 minutes) based on various flight characteristics, departure times, and carrier data.
